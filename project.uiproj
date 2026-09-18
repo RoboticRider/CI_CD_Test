@@ -1,0 +1,6 @@
+{
+  "Name": "CI_CD_Pipeline",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
